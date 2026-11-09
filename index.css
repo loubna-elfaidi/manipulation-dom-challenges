@@ -1,0 +1,15 @@
+:root {
+    --color-primary: #C2410C;
+    --color-secondary: #FFEDD5;
+    --color-accent: #CCFBF1;
+    --text-color: #0F766E;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  "Bricolage Grotesque", sans-serif;
+}
+header{
+    display: flex;
+    
+}
